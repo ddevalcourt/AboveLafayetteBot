@@ -5,8 +5,8 @@ Config Module.
 __author__ = "HariA"
 
 
-URL = "http://xxx.xxx.xxx.xxx/tar1090"
-DATA = "http://xxx.xxx.xxx.xxx/tar1090/data/aircraft.json"
+URL = "http://192.168.0.120/tar1090/"
+DATA = "http://192.168.0.120/tar1090/data/aircraft.json"
 
 operatorsJSON = "operators.json"
 aircraftsJSON = "aircrafts.json"
@@ -28,10 +28,10 @@ cropX = 200
 cropY = 0
 cropWidth = 1400
 cropHeight = 900
-defaultHashtags = " #AboveMonroe #ADSB"
+defaultHashtags = " #AboveLafayette #ADSB"
 
-lLatitude = xx.xx
-lLongitude = xx.xx
+lLatitude = 30.2968
+lLongitude = -92.1164
 
 tConsumerKey = ""
 tConsumerSecret = ""
